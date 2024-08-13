@@ -1,5 +1,5 @@
-## mkdocs-backlinks v0.9.2
+## mkdocs-backlinks v0.9.1
 
 ### Changed
 
-- Now supports links which have been changed when `use_directory_urls` was enabled.
+- Add missing dependency.
